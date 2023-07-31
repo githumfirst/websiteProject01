@@ -48,13 +48,13 @@ section {
 
 .Container h2 {
     margin-top: 2%;
-    font-size: 3em;
+    font-size: 1em;
 }
 
 .Container p,
 ul {
     margin-top: 2%;
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
 footer {
